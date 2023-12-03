@@ -1,4 +1,4 @@
-Date,Days elapsed,Nemas Added,Recovered (mL),Average in 100 uL,Average in 1 mL,Observed Recovery,Estimated Recovery ,Estimated % Recovery
+date,days_elapsed,nemas_added,recovered_ml,avg_in_100ul,avg_in_mL,obs_recovery,est_rec,est_perc_rec
 7/17/2023,0,410,17,2.6,26,442,702,171%
 7/17/2023,0,410,11,1.6,16,176,279,68%
 7/17/2023,0,410,15,1,10,150,238,58%
